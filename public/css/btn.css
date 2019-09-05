@@ -1,0 +1,40 @@
+.btn-luksha {
+    color: #fff;
+    background-color: #563e7c;;
+    border-color: #563e7c;;
+}
+
+.btn-luksha:hover {
+    color: #fff;
+    background-color: #6d4f9d;
+    border-color: #462875;
+}
+
+.btn-luksha:focus, .btn-luksha.focus {
+    box-shadow: 0 0 0 0.2rem rgba(127, 63, 191, 0.5);
+}
+
+.btn-luksha.disabled, .btn-luksha:disabled {
+    background-color: #6d4f9d;
+    border-color: #462875;
+}
+
+.btn-luksha:not([disabled]):not(.disabled):active, .btn-luksha:not([disabled]):not(.disabled).active,
+.show > .btn-luksha.dropdown-toggle {
+    color: #fff;
+    background-color: #6d4f9d;
+    border-color: #462875;
+    box-shadow: 0 0 0 0.2rem #462875;
+}
+
+.register_class{
+    text-align:center;
+    font-size:30px;
+    color:#777!important;
+}
+
+.login-class{
+    text-align:center;
+    font-size:30px;
+    color:#777!important;
+}

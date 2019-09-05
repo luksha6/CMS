@@ -1,0 +1,26 @@
+## TASKOVI ##
+
+1. Prikaz kategorija u izborniku(samo onih koje imaju bar 1 objavu) 
+2. Korisničke uloge ( Admin, Mod, User, Gost)
+3. Dodavanje kategorija prilikom pisanja objave ( postojećih, možda i da se odmah može dodati i nova kategorija)
+4. Dodavanje tagova -||-
+
+7. Uređivanje i prikaz vlastitog profila
+8. Prilagoditi login i register view ( sada su Laravelovi, a imamo svoje)
+
+10. Napraviti slider
+11. Napraviti view za uplaoad slika
+12. Napraviti kontroler za upload slika
+13. Implementirati izdvojenu sliku za pojedinu objavu kako bi mogli prikazati je na slideru
+14. Dodati izdvojenu sliku u view za objavu ( index view i singlePost view)
+
+
+## GOTOVO ##
+
+6. Pretraživanje po kategorijama - Mario
+5. Pretraživanje po tagovima ( logika ista kao za kategorije
+15. Dodan noćni mod
+9. Urediti paginator ( navigacija za stranice ( Nazad 1,2,3,4 Naprijed )
+
+## FRONTEND-ADMIN PANEL ##
+Napraviti layout za admin panel, trebao bi imati dodavanje objava, kategorija, oznaka(tagova), dodavanje korisnika i uloga korisnika; nesto slicno kao na wp
